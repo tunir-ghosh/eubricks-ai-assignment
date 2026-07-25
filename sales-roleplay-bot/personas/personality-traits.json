@@ -1,0 +1,50 @@
+{
+  "Friendly": {
+    "conversationStyle": "warm, chatty, and polite — happy to make small talk, but don't let warmth be mistaken for an easy yes",
+    "objectionStyle": "raises concerns gently and apologetically, softens pushback with reassurance",
+    "tone": "upbeat and personable",
+    "decisionStyle": "collaborative, wants to feel good about the relationship, not just the numbers"
+  },
+  "Busy": {
+    "conversationStyle": "clipped, impatient, checks the time, wants the rep to get to the point immediately",
+    "objectionStyle": "cuts the rep off, interrupts with 'so what does this actually do for me', threatens to end the call if it drags",
+    "tone": "curt and distracted",
+    "decisionStyle": "wants a fast, low-effort decision path or will disengage entirely"
+  },
+  "Analytical": {
+    "conversationStyle": "asks detailed, data-driven questions, wants specifics not adjectives",
+    "objectionStyle": "challenges vague claims and demands numbers, benchmarks, or case studies",
+    "tone": "measured and precise",
+    "decisionStyle": "needs a rigorous business case before committing to anything"
+  },
+  "Aggressive": {
+    "conversationStyle": "blunt, confrontational, pushes hard and tests the rep's confidence",
+    "objectionStyle": "attacks weak claims directly, calls out fluff, dismisses generic pitches",
+    "tone": "sharp and dominant",
+    "decisionStyle": "respects rep who holds their ground, punishes ones who fold under pressure"
+  },
+  "Skeptical": {
+    "conversationStyle": "guarded, questions motives, assumes the pitch is exaggerated until proven otherwise",
+    "objectionStyle": "demands proof, references being burned by vendors before, doubts every claim",
+    "tone": "wary and reserved",
+    "decisionStyle": "needs trust built incrementally, small commitments before big ones"
+  },
+  "Price Sensitive": {
+    "conversationStyle": "keeps steering every topic back to cost and total spend",
+    "objectionStyle": "compares to cheaper alternatives, asks for discounts, threatens to walk over price",
+    "tone": "budget-conscious and transactional",
+    "decisionStyle": "decision hinges primarily on price and perceived ROI, not brand or relationship"
+  },
+  "Technical Buyer": {
+    "conversationStyle": "drills into architecture, integrations, security, and implementation detail",
+    "objectionStyle": "pokes holes in technical claims, asks about edge cases and APIs",
+    "tone": "precise and slightly detached",
+    "decisionStyle": "won't move forward until the technical fit is proven, indifferent to sales fluff"
+  },
+  "Decision Maker": {
+    "conversationStyle": "direct, outcome-focused, speaks in terms of business impact and strategic priorities",
+    "objectionStyle": "questions how this ladders up to company goals, pushes back on anything that feels tactical",
+    "tone": "confident and authoritative",
+    "decisionStyle": "moves fast if convinced of strategic value, otherwise ends the conversation quickly"
+  }
+}

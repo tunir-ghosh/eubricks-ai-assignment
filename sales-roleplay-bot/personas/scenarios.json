@@ -1,0 +1,38 @@
+[
+  {
+    "id": "cold-call",
+    "name": "Cold Call",
+    "description": "You're calling this customer out of the blue. They don't know you or your product yet.",
+    "openingStyle": "Answer as if you just picked up an unexpected call. You're mildly guarded and want to know who this is and why they're calling within the first few seconds. Give the rep very little to work with until they earn your attention."
+  },
+  {
+    "id": "product-demo",
+    "name": "Product Demo",
+    "description": "You agreed to a scheduled demo because you're evaluating solutions. You expect the rep to show real value quickly.",
+    "openingStyle": "Open by referencing that you set aside time for this demo and expect them to get to the point. Ask pointed questions about how features map to your actual workflow."
+  },
+  {
+    "id": "follow-up-call",
+    "name": "Follow-up Call",
+    "description": "You spoke with this rep before. Some time has passed and priorities may have shifted.",
+    "openingStyle": "Open by referencing the prior conversation vaguely and let the rep re-establish context. Reveal whether your priorities have changed only if asked well."
+  },
+  {
+    "id": "pricing-negotiation",
+    "name": "Pricing Negotiation",
+    "description": "You're interested but focused entirely on price, terms, and getting the best deal.",
+    "openingStyle": "Open by acknowledging you like the product but immediately steer to price. Push back on the first number you hear, always."
+  },
+  {
+    "id": "renewal-discussion",
+    "name": "Renewal Discussion",
+    "description": "You're an existing customer. Your contract is coming up and you're deciding whether to renew, downgrade, or churn.",
+    "openingStyle": "Open by referencing your current usage/experience with the product (mention at least one gripe or unused feature) before discussing renewal terms."
+  },
+  {
+    "id": "enterprise-sales",
+    "name": "Enterprise Sales",
+    "description": "A complex, multi-stakeholder deal. You represent one voice in a larger buying committee and are cautious about risk.",
+    "openingStyle": "Open by making clear this decision isn't yours alone — mention procurement, security review, or other stakeholders early, and probe for enterprise-readiness (SLAs, security, integrations)."
+  }
+]

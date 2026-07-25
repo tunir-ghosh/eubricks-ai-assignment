@@ -1,0 +1,107 @@
+{
+  "Healthcare": {
+    "painPoints": [
+      "patient wait times and scheduling inefficiency",
+      "compliance and HIPAA audit burden",
+      "staff burnout from manual admin work",
+      "disconnected systems between clinical and billing"
+    ],
+    "goals": ["improve patient outcomes", "reduce administrative overhead", "stay audit-ready", "cut operating costs without cutting care quality"],
+    "competitors": ["Epic", "Cerner", "athenahealth"],
+    "commonObjections": [
+      "our current EHR vendor already covers most of this",
+      "compliance and data security requirements are extremely strict here",
+      "clinical staff resist adopting new tools"
+    ]
+  },
+  "Finance": {
+    "painPoints": [
+      "regulatory reporting complexity",
+      "fraud and risk exposure",
+      "slow manual reconciliation processes",
+      "legacy systems that don't integrate well"
+    ],
+    "goals": ["reduce compliance risk", "improve reporting accuracy", "cut manual reconciliation time", "protect margins"],
+    "competitors": ["SAP", "Oracle Financials", "a boutique fintech vendor"],
+    "commonObjections": [
+      "security and audit review here takes months",
+      "we already have a vendor relationship we're locked into",
+      "the ROI case needs to be airtight before this gets budget"
+    ]
+  },
+  "Education": {
+    "painPoints": [
+      "shrinking budgets and public funding pressure",
+      "fragmented systems across departments",
+      "low staff capacity to learn new tools",
+      "accessibility and compliance requirements"
+    ],
+    "goals": ["stretch a limited budget further", "improve student/staff experience", "reduce IT support burden", "meet accessibility mandates"],
+    "competitors": ["PowerSchool", "Blackboard", "an in-house built tool"],
+    "commonObjections": [
+      "budget approval requires board sign-off",
+      "our staff are already overwhelmed with new systems",
+      "we need this to work for our least tech-savvy users"
+    ]
+  },
+  "Manufacturing": {
+    "painPoints": [
+      "supply chain visibility gaps",
+      "downtime from equipment or process failures",
+      "manual, paper-based floor processes",
+      "rising input costs squeezing margins"
+    ],
+    "goals": ["reduce downtime", "improve supply chain visibility", "cut operating costs", "modernize floor operations without disrupting output"],
+    "competitors": ["SAP", "Oracle NetSuite", "a legacy on-prem system they've used for a decade"],
+    "commonObjections": [
+      "implementation downtime is not acceptable on our production line",
+      "our team isn't technical, adoption is a real risk",
+      "we've been burned by a vendor overpromising before"
+    ]
+  },
+  "Real Estate": {
+    "painPoints": [
+      "slow deal cycles and manual paperwork",
+      "poor visibility into portfolio performance",
+      "disconnected tools across listing, CRM, and finance",
+      "rising interest rates pressuring buyers"
+    ],
+    "goals": ["close deals faster", "improve portfolio visibility", "reduce manual paperwork", "differentiate in a competitive market"],
+    "competitors": ["Yardi", "a regional CRM tool", "a spreadsheet-based process"],
+    "commonObjections": [
+      "our agents already have workflows they're comfortable with",
+      "market conditions make new spending hard to justify right now",
+      "data migration from our current system feels risky"
+    ]
+  },
+  "Retail": {
+    "painPoints": [
+      "thin margins under constant price pressure",
+      "inventory and demand forecasting inaccuracy",
+      "fragmented online/offline customer experience",
+      "high staff turnover"
+    ],
+    "goals": ["protect margin", "improve inventory accuracy", "unify the customer experience", "reduce staff training time"],
+    "competitors": ["Shopify Plus", "a legacy POS vendor", "an in-house built system"],
+    "commonObjections": [
+      "seasonality makes timing a new rollout tricky",
+      "our margins are too thin for anything but proven ROI",
+      "our current vendor gives us decent enough service"
+    ]
+  },
+  "Technology": {
+    "painPoints": [
+      "engineering velocity bottlenecks",
+      "tool sprawl and integration overhead",
+      "scaling infrastructure cost efficiently",
+      "security and compliance keeping pace with growth"
+    ],
+    "goals": ["ship faster", "consolidate tooling", "control infrastructure cost", "pass security review without slowing the team down"],
+    "competitors": ["a well-known YC-backed competitor", "an open-source alternative", "an in-house built solution"],
+    "commonObjections": [
+      "our engineers could just build this internally",
+      "security review here is thorough and can kill deals",
+      "we're mid-migration and bandwidth is tight"
+    ]
+  }
+}

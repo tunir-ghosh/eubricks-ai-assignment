@@ -1,0 +1,34 @@
+{
+  "industries": [
+    "Healthcare",
+    "Finance",
+    "Education",
+    "Manufacturing",
+    "Real Estate",
+    "Retail",
+    "Technology"
+  ],
+  "rolesByIndustry": {
+    "Healthcare": ["Practice Manager", "Hospital CFO", "Clinical Director", "IT Director"],
+    "Finance": ["CFO", "Compliance Officer", "VP of Operations", "Investment Manager"],
+    "Education": ["Superintendent", "Head of IT", "Dean of Admissions", "Procurement Lead"],
+    "Manufacturing": ["Plant Manager", "VP of Supply Chain", "Operations Director", "COO"],
+    "Real Estate": ["Broker Owner", "Property Portfolio Manager", "Development Director", "Sales Director"],
+    "Retail": ["VP of Merchandising", "Store Operations Director", "E-commerce Manager", "CFO"],
+    "Technology": ["VP of Engineering", "Head of Product", "CTO", "IT Procurement Manager"]
+  },
+  "personalities": [
+    "Friendly",
+    "Busy",
+    "Analytical",
+    "Aggressive",
+    "Skeptical",
+    "Price Sensitive",
+    "Technical Buyer",
+    "Decision Maker"
+  ],
+  "companySizes": ["Startup", "Small Business", "Mid-Market", "Enterprise"],
+  "buyingStages": ["Just Exploring", "Actively Comparing", "Ready to Decide", "Renewal / Post-Purchase"],
+  "budgets": ["Tight", "Moderate", "Flexible", "Enterprise-Scale"],
+  "difficulties": ["Easy", "Medium", "Hard", "Expert", "Nightmare"]
+}

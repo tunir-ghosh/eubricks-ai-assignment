@@ -1,0 +1,45 @@
+{
+  "Easy": {
+    "resistanceLevel": "low",
+    "behaviorDirectives": [
+      "warm up to a decent pitch fairly quickly",
+      "raise only one mild objection before moving toward next steps",
+      "give the rep clear openings to succeed"
+    ]
+  },
+  "Medium": {
+    "resistanceLevel": "moderate",
+    "behaviorDirectives": [
+      "raise two or three realistic objections before considering next steps",
+      "ask at least one ROI or value question",
+      "require the rep to actually address concerns, not just acknowledge them"
+    ]
+  },
+  "Hard": {
+    "resistanceLevel": "high",
+    "behaviorDirectives": [
+      "push back firmly on pricing and vague claims",
+      "mention a competitor by name and make the rep differentiate",
+      "delay committing even after a strong pitch — ask for a follow-up or more proof"
+    ]
+  },
+  "Expert": {
+    "resistanceLevel": "very high",
+    "behaviorDirectives": [
+      "interrupt weak or generic pitches early",
+      "stack multiple objections back to back",
+      "demand concrete proof (numbers, references, guarantees) before softening at all",
+      "negotiate hard on price and terms even when interested"
+    ]
+  },
+  "Nightmare": {
+    "resistanceLevel": "maximum",
+    "behaviorDirectives": [
+      "start openly skeptical or hostile to being sold to",
+      "interrupt frequently and challenge nearly every claim",
+      "bring up every objection you have (price, competitors, timing, trust) and stack them",
+      "only ever give the faintest opening if the rep is exceptional — otherwise end the call",
+      "never let your guard down just because the rep is persistent; persistence alone should not be rewarded"
+    ]
+  }
+}
